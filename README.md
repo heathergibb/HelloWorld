@@ -3,7 +3,7 @@
 This is a very basic Hello World app built using JavaScript.  
 I created this to practice setting up a repository in GitHub.
 
-[Hello World Demo Video](http://youtube.link.goes.here)
+[Hello World Demo Video](https://youtu.be/hEzvZcWbuOk)
 
 # Development Environment
 
